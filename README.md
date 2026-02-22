@@ -32,7 +32,7 @@ Como iniciar:
 
 Faça o clone deste repositório para a sua máquina executando o comando abaixo no seu terminal:
 
-git clone [https://github.com/SEU-USUARIO/javabank-legado.git](https://github.com/SEU-USUARIO/javabank-legado.git)
+git clone [https://github.com/prof-salu/javabank-legado](https://github.com/prof-salu/javabank-legado)
 
 
 Abra a pasta javabank-legado no VS Code.
